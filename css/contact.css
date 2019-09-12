@@ -1,0 +1,29 @@
+.map{
+    width: 20%;
+    display: inline-block;
+    float: right;
+}
+
+main{
+    height: 900px;
+    width: 100%;
+}
+
+.center{
+    text-align: center;
+}
+.contact-form{
+    /* width: 100%;  */
+    border: 1px solid black;
+     margin-top: 20px;
+} 
+.section{
+    width: 33%;
+    display: inline-block;
+    margin-top: 5px;
+    text-align: center;
+}
+h3{
+    margin: 0px;
+    color: white;
+}

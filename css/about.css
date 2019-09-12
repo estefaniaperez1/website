@@ -1,0 +1,34 @@
+
+header{
+    background-color: aqua;
+}
+
+h1{
+    font-family: 'Gayathri', sans-serif;
+    text-align: center;
+    letter-spacing: 10px;
+    font-size: 200px;
+    text-shadow: 5px 5px white;
+    margin: 0px;
+}
+/* Start main */
+
+.ocean{
+    background-image: url(..img/ocean);
+    height: 800px;
+    width: 100%;
+    image-rendering: optimizeQuality;
+}
+
+.words{
+    font-weight: bold;
+    font-family: 'Gayathri', sans-serif;
+    font-size: 35px;
+    text-align: justify;
+    padding: 20px;}
+    /* end main */
+
+    /* start footer */
+.center{
+    text-align: center;
+}
